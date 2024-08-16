@@ -1,9 +1,11 @@
 # Business Analyst
 
 ### Education 
-George Brown College - Advanced Diploma
+- AD., Business Administration - Human Resources | George Brown College (June 2020)
+- BA (Spec Honours)., Financial & Business Economics | York University (August 2024)
 
 ### Work Experience 
-
+- Old Navy
 ### Projects 
-write write 
+United Kingdom Train Data 
+-
