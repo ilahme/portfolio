@@ -14,4 +14,15 @@
 
 ### Professional Projects 
 - United Kingdom Train Data 
--
+  - Project Aims
+      - Determine on average on time %
+      - Determine variables that impact performance
+  
+-  Project 2 
+  - Project Aims
+      - Determine on average on time %
+      - Determine variables that impact performance 
+   
+### Professional Certifications 
+- Microsoft Power Bi Data Analyst | Candidate (August 2024)
+- Entry Certificate in Business Analysis | Candidate (October 2024)
