@@ -1,11 +1,17 @@
 # Business Analyst
 
 ### Education 
-- AD., Business Administration - Human Resources | George Brown College (June 2020)
-- BA (Spec Honours)., Financial & Business Economics | York University (August 2024)
+- AD., Business Administration - Human Resources | George Brown College (_June 2020_)
+- BA (Spec Honours)., Financial & Business Economics | York University (August 2024_)
 
 ### Work Experience 
-- Old Navy
-### Projects 
-United Kingdom Train Data 
+- Old Navy (July 2016-January 2024)
+- Student Coach (September 2019 - April 2020)
+
+### Personal Projects
+- Financial Analyst (January 2021 - Current)
+- Business Consultant (March 2022 - Current) 
+
+### Professional Projects 
+- United Kingdom Train Data 
 -
