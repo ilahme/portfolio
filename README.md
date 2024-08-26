@@ -1,8 +1,8 @@
 # Business Analyst
 
 ### Education 
-- AD., Business Administration - Human Resources | George Brown College (_June 2020_)
-- BA (Spec Honours)., Financial & Business Economics | York University (August 2024_)
+- AD., Business Administration - Human Resources | George Brown College (June 2020)
+- BA (Spec Honours)., Financial & Business Economics | York University (August 2024)
 
 ### Work Experience 
 - Old Navy (July 2016-January 2024)
@@ -14,7 +14,8 @@
 
 ### Professional Projects 
 - United Kingdom Train Data
-![View Project Here] (/United Kingdom Train Dataset)
+[View Project Here] (United Kingdom Train Dataset)
+
   - Project Aims
       - Determine on average on time %
       - Determine variables that impact performance
