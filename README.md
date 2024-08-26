@@ -14,13 +14,17 @@
 
 ### Professional Projects 
 - United Kingdom Train Data
-[View Project Here](https://github.com/ilahme/portfolio/blob/main/United%20Kingdom%20Train%20Dataset))
+[View Project Here](https://github.com/ilahme/portfolio/blob/main/United%20Kingdom%20Train%20Dataset)
 
   - Project Aims
       - Determine on average on time %
       - Determine variables that impact performance
+  - Tools Used 
+      - Excel for data cleaning and basic analysis 
+      - PowerBi for data vizualization 
+    
   
--  Project 2 
+-  Car Insurance
   - Project Aims
       - Determine on average on time %
       - Determine variables that impact performance 
