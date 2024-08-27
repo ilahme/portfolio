@@ -19,15 +19,20 @@
   - Project Aims
       - Determine on average on time %
       - Determine variables that impact performance
+      - Determine which was the most used fare type
+      - Determine the amount of ticket types purchased
+      - Determine amount of refunds per delay reason 
   - Tools Used 
       - Excel for data cleaning and basic analysis 
-      - PowerBi for data vizualization 
+      - PowerBi for data vizualization
+  - Conclussions/Recommendations 
+      - The data shows that there is space to decrease delays by resolving staffing and signal issues which are in control of the railway company
+      - Determined that the most used station was Manchester Piccadilly and that most commuters did not go to London
+      - Observed an increase in ridership at 7am and 5pm corresponding with people commuting for work
+      - Most customers request refunds if they have advance notice of a delay 
     
-  
--  Car Insurance
-  - Project Aims
-      - Determine on average on time %
-      - Determine variables that impact performance 
+- Car Insurance Data Set
+  - Coming Soon!
    
 ### Professional Certifications 
 - Microsoft Power Bi Data Analyst | Candidate (August 2024)
