@@ -17,11 +17,10 @@
 [View Project Here](https://github.com/ilahme/portfolio/blob/main/UK%20Train%20Dashboard.pdf)
 
   - Project Aims
-      - Determine on average on time %
-      - Determine variables that impact performance
-      - Determine which was the most used fare type
-      - Determine the amount of ticket types purchased
-      - Determine amount of refunds per delay reason 
+      - Determine average on time % and ways to improve it 
+      - Determine rider trends and the average fare price 
+      - Determine amount of refunds per delay reason
+      - Determine reasons for refunds and the causes behind them 
   - Tools Used 
       - Excel for data cleaning and basic analysis 
       - PowerBi for data vizualization
